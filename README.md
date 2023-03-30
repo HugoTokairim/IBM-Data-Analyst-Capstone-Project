@@ -1,1 +1,1 @@
-# JDAProjects
+# IBM Data Analyst Professional
