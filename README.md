@@ -1,7 +1,7 @@
 # IBM Data Analyst Professional 
 
 ## About this Project
-Throughout this program, you will have acquired several Data Analytics skills and techniques as part of the IBM Data Analyst Professional Certificate. In this course, you will have the opportunity to put these skills into practice by taking on the role of an Junior Data Analyst who has just started working at the company. You will be tasked with a business problem that involves analyzing real-world datasets, and will need to apply the data analytics skills and techniques you have learned in previous courses to tackle this challenge.
+During the program, I acquired several Data Analytics skills and techniques as part of the IBM Data Analyst Professional Certificate. As part of the course, I had the opportunity to put these skills into practice by taking on the role of a Junior Data Analyst who had just started working at the company. I was tasked with a business problem that involved analyzing real-world datasets, and I needed to apply the data analytics skills and techniques I had learned in previous courses to tackle this challenge.
 
 ## Modules
 ## Module 1: Data Collection
